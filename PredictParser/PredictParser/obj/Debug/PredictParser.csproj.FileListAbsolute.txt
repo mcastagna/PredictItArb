@@ -1,0 +1,13 @@
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.csprojResolveAssemblyReference.cache
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.exe.config
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.exe
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.pdb
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.exe
+c:\users\bloombergdev\documents\visual studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.exe.config
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.exe
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\bin\Debug\PredictParser.pdb
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.exe
+C:\Users\Mike\Documents\Visual Studio 2017\Projects\PredictParser\PredictParser\obj\Debug\PredictParser.pdb
